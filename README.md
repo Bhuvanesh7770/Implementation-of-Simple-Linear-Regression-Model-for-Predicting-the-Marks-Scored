@@ -17,7 +17,8 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
-
+Name: Bhuvanesh K
+Register No: 212224230037
 ```
 
 ```
